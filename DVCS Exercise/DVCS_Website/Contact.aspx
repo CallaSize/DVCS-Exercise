@@ -1,8 +1,8 @@
 ﻿<%@ Page Title="Contact" Language="VB" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Contact.aspx.vb" Inherits="DVCS_Website.Contact" %>
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
-    <h2><%: Title %></h2>
-    <p>Your contact page.</p>
+    <h2><%: Calla Sadoway %></h2>
+    <p>DMIT 2018 E01</p>
 
     <address>
         One Microsoft Way<br />
