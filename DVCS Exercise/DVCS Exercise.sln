@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.852
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DVCS_Website", "DVCS_Website\DVCS_Website.vbproj", "{CD8E53D2-B177-494B-AE08-1CEEF98E43D7}"
 EndProject
@@ -14,6 +14,10 @@ EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LSystems", "BLL\LSystems.vbproj", "{2ED26C7E-71D3-480E-9349-053D225A9B7B}"
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LSystem.Data", "LSystem.Data\LSystem.Data.vbproj", "{5222F9CF-5CA7-446F-B3D5-3F72B8B52C14}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DVCSSystem", "DVCSSystem", "{5E58E361-DEF8-42CA-8739-4CBEF726D3EF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DVCSSystem.Data", "DVCSSystem.Data", "{1EB521FC-9E42-47F0-A9DE-742819A1DC28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
