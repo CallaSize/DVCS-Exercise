@@ -494,16 +494,6 @@
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\BLL\LSystems.vbproj">
-      <Project>{2ed26c7e-71d3-480e-9349-053d225a9b7b}</Project>
-      <Name>LSystems</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\LSystem.Data\LSystem.Data.vbproj">
-      <Project>{5222f9cf-5ca7-446f-b3d5-3f72b8b52c14}</Project>
-      <Name>LSystem.Data</Name>
-    </ProjectReference>
-  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
